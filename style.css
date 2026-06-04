@@ -318,7 +318,6 @@ body.high-contrast a, body.high-contrast button {
 
 .map-region {
     cursor: pointer;
-    transition: var(--transition);
     opacity: 0.75;
 }
 
