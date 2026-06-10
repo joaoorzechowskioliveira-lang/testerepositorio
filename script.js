@@ -39,14 +39,14 @@ const mapaDados = {
 
 const imagens = [
     {
-        src: './img/campo1.png',
+        src: './img/campo.png',
         description: 'Campo de soja no Paraná.',
         alt: 'Campo de soja.'
      },
     { 
-        src: './img/campo2.png',
-        description: 'Campo de soja no Paraná',
-        alt: 'Outro campo de soja no Paraná'
+        src: './img/maquinario.png',
+        description: 'Maquinário coletando grãos.',
+        alt: 'Maquinário.'
     },
     { 
         src: './img/frutas.png',
