@@ -50,8 +50,8 @@ const imagens = [
     },
     { 
         src: './img/frutas.png',
-        description: 'Caminhão carregado de tomates',
-        alt: 'Caminhão carregando tomates'
+        description: 'Caminhão carregado de tomates.',
+        alt: 'Caminhão.'
      }
 ];
 
