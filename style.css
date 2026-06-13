@@ -316,6 +316,12 @@ body.high-contrast a, body.high-contrast button {
     box-shadow: var(--shadow);
 }
 
+.map-region:active {
+    width: 120%;
+
+}
+    
+
 .map-marker {
     fill: var(--secondary);
     stroke: var(--white);
